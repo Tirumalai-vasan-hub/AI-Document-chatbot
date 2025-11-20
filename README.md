@@ -12,6 +12,7 @@ Upload your PDFs, ask questions, and get instant answers with context. It also s
 🎨 Colorful, modern UI for a better user experience
 
 🛠️ Tech Stack
+
 Python
 Streamlit (Web UI)
 FAISS (Vector search for RAG)
